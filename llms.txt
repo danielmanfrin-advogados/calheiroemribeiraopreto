@@ -1,0 +1,38 @@
+# Calheiro em Ribeirão Preto
+
+Instalação, conserto, limpeza e manutenção de calhas em Ribeirão Preto, com informações para iniciar contato com um prestador parceiro.
+
+## Serviços
+- [Instalação de calhas](https://calheiroribeiraopreto.vercel.app/servicos/instalacao-de-calhas/): Instalação de calhas para conduzir a água da chuva do telhado até a descida adequada. O tipo de material, o percurso e os pontos de saída devem ser avaliados no imóvel.
+- [Conserto de calhas](https://calheiroribeiraopreto.vercel.app/servicos/conserto-de-calhas/): Avaliação de calhas com vazamento, emendas abertas, suportes soltos ou trechos danificados. A necessidade de reparo ou troca depende do estado do material e da extensão do problema.
+- [Limpeza e manutenção de calhas](https://calheiroribeiraopreto.vercel.app/servicos/limpeza-e-manutencao-de-calhas/): Remoção de folhas e resíduos e verificação visual do conjunto, conforme avaliação do local. O acesso e o trabalho em altura devem ser tratados com cautela pelo prestador.
+
+## Bairros
+- [Centro](https://calheiroribeiraopreto.vercel.app/bairros/centro/): informações para descrever uma solicitação de calhas neste bairro; o prestador confirma a disponibilidade.
+- [Jardim Botânico](https://calheiroribeiraopreto.vercel.app/bairros/jardim-botanico/): informações para descrever uma solicitação de calhas neste bairro; o prestador confirma a disponibilidade.
+- [Nova Aliança](https://calheiroribeiraopreto.vercel.app/bairros/nova-alianca/): informações para descrever uma solicitação de calhas neste bairro; o prestador confirma a disponibilidade.
+- [Vila Tibério](https://calheiroribeiraopreto.vercel.app/bairros/vila-tiberio/): informações para descrever uma solicitação de calhas neste bairro; o prestador confirma a disponibilidade.
+- [Bonfim Paulista](https://calheiroribeiraopreto.vercel.app/bairros/bonfim-paulista/): informações para descrever uma solicitação de calhas neste bairro; o prestador confirma a disponibilidade.
+- [Campos Elíseos](https://calheiroribeiraopreto.vercel.app/bairros/campos-eliseos/): informações para descrever uma solicitação de calhas neste bairro; o prestador confirma a disponibilidade.
+
+## Páginas institucionais
+- [Sobre](https://calheiroribeiraopreto.vercel.app/sobre/)
+- [Perguntas frequentes](https://calheiroribeiraopreto.vercel.app/perguntas-frequentes/)
+- [Política de privacidade](https://calheiroribeiraopreto.vercel.app/politica-de-privacidade/)
+
+## Perguntas e respostas
+
+### Quando é indicado instalar ou trocar uma calha?
+A instalação pode ser considerada em construção, reforma, ausência de calha ou quando o sistema existente já não direciona a água como esperado. A necessidade de troca depende da avaliação do trecho, do material, da fixação e do telhado.
+
+### Como percebo um problema sem subir no telhado?
+Observe do solo se há água escorrendo pela fachada durante a chuva, gotejamento em pontos, calha visivelmente desalinhada ou resíduos transbordando. Não suba nem apoie escadas sem preparo; descreva o que vê ao prestador.
+
+### Dá para consertar uma calha sem trocar tudo?
+Em alguns casos, é possível corrigir uma emenda, fixação ou parte danificada. A solução depende da inspeção do material, da extensão, do estado dos suportes e da condição do telhado; o prestador confirma.
+
+### O atendimento contempla casas e imóveis comerciais?
+O pedido pode ser direcionado para imóveis residenciais e comerciais em Ribeirão Preto e região. Informe o tipo de imóvel e a necessidade para o prestador confirmar a área e o serviço.
+
+### Como pedir orçamento de calhas?
+Clique em WhatsApp ou Ligue agora e informe bairro, tipo de imóvel, serviço, trecho aproximado, material se souber e o problema. Se for seguro, compartilhe uma foto tomada do solo. O prestador informa valores e condições.

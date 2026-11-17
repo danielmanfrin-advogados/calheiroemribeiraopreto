@@ -1,0 +1,17 @@
+{
+  "routes": [
+    {"path": "/", "title": "Calheiro em Ribeirão Preto"},
+    {"path": "/servicos/instalacao-de-calhas/", "title": "Instalação de calhas"},
+    {"path": "/servicos/conserto-de-calhas/", "title": "Conserto de calhas"},
+    {"path": "/servicos/limpeza-e-manutencao-de-calhas/", "title": "Limpeza e manutenção de calhas"},
+    {"path": "/bairros/centro/", "title": "Calhas no Centro"},
+    {"path": "/bairros/jardim-botanico/", "title": "Calhas no Jardim Botânico"},
+    {"path": "/bairros/nova-alianca/", "title": "Calhas na Nova Aliança"},
+    {"path": "/bairros/vila-tiberio/", "title": "Calhas na Vila Tibério"},
+    {"path": "/bairros/bonfim-paulista/", "title": "Calhas em Bonfim Paulista"},
+    {"path": "/bairros/campos-eliseos/", "title": "Calhas nos Campos Elíseos"},
+    {"path": "/sobre/", "title": "Sobre o portal"},
+    {"path": "/perguntas-frequentes/", "title": "Perguntas frequentes"},
+    {"path": "/politica-de-privacidade/", "title": "Política de privacidade"}
+  ]
+}

@@ -1,0 +1,28 @@
+DOMINIO_BASE=https://calheiroribeiraopreto.vercel.app
+
+CALHEIRO EM RIBEIRAO PRETO, GUIA DO PROJETO
+
+1. Trocar o WhatsApp e o telefone
+Abra config.js. Altere whatsapp e telefone para o número real do prestador, usando apenas dígitos no formato 55 + DDD + número. A mensagem padrão também pode ser ajustada no mesmo arquivo. Os botões de todas as páginas leem esses valores. O número 5516900000000 é provisório e precisa ser substituído antes de divulgar o site.
+
+2. Atualizar o registro na planilha Google
+Abra a planilha usada para registrar os cliques. Vá em Extensões > Apps Script. Apague o conteúdo do editor e cole integralmente apps-script/Code.gs. Salve e execute a função setup() uma vez, autorizando o script. Para atualizar o aplicativo da web sem trocar a URL, vá a Implantar > Gerenciar implantações, edite a implantação existente, selecione Nova versão, confirme o acesso como Qualquer pessoa e implante. A URL /exec continua a mesma. O endpoint que já está no config.js é compartilhado com outros sites e grava na aba Cliques.
+
+Para montar um relatório por site, na planilha use Inserir > Tabela dinâmica e escolha os dados da aba Cliques. Coloque Site em Linhas e a contagem da coluna Botão em Valores. Essa coluna guarda as ações whatsapp e ligar. Para comparar os botões, coloque Botão também em Colunas.
+
+3. Cadastrar o site no Google Search Console
+Depois que o site estiver publicado e o domínio confirmado, abra o Google Search Console, adicione uma propriedade de domínio ou prefixo de URL e conclua a verificação solicitada pelo Google. No menu Sitemaps, envie https://calheiroribeiraopreto.vercel.app/sitemap.xml. Se usar um domínio próprio, atualize DOMINIO_BASE e substitua o domínio antigo nas canonicals e nos arquivos sitemap.xml, robots.txt, llms.txt e nos dados estruturados das páginas antes de publicar.
+
+4. Publicar na Vercel
+Envie o projeto para um repositório GitHub e importe-o na Vercel. Selecione Framework Preset: Other, Build Command: npm run build e Output Directory: dist. O projeto usa HTML, CSS e JavaScript puros e não tem dependências de aplicação. O vercel.json já registra npm run build, dist, cleanUrls e trailingSlash. Não inclua package-lock.json.
+
+5. Imagens ilustrativas
+As cinco fotografias originais foram geradas para este site, convertidas para JPG e incluídas em img/: hero.jpg (1600 x 900), sobre.jpg e uma imagem 1000 x 750 para cada serviço. Os HTMLs já usam esses arquivos locais, que podem ser publicados na Vercel. img/PROMPTS.txt guarda os prompts utilizados. Quando o prestador enviar fotos reais, substitua os arquivos mantendo os mesmos nomes, atualize os textos alt para descrever a imagem e confira o consentimento de uso.
+6. Perfil da empresa
+Só recomende criar um Perfil da Empresa no Google (antigo Google Meu Negócio) se houver um prestador real com endereço elegível e confirmado. Não invente endereço ou perfil para este portal.
+
+7. Conteúdo e configuração
+As páginas são arquivos HTML completos dentro de suas pastas. Para alterar textos, edite o index.html correspondente. O slug do portal é calheiroribeiraopreto, e o site informa que o atendimento é realizado por prestadores parceiros. O aviso legal obrigatório está no rodapé de todas as páginas.
+
+8. Publicação e teste local
+Para gerar a pasta dist localmente, execute npm install --package-lock=false e depois npm run build. Confirme que dist/index.html foi criado. Não mantenha package-lock.json no projeto.

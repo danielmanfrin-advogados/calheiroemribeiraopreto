@@ -1,0 +1,7 @@
+Imagens ilustrativas para o portal Calhas em Ribeirão Preto. Os arquivos JPG gerados já estão presentes nesta pasta. Este texto preserva os prompts para referência e para eventual substituição futura. Dimensões: hero.jpg 1600x900; sobre.jpg e imagens de serviço 1000x750. Fotografia realista de celular, luz natural, ambiente residencial real, sem produção, texto, logotipos, marcas, placas legíveis, rostos em destaque ou comportamento inseguro.
+
+hero.jpg: Casa residencial brasileira simples vista do jardim, beiral com calha pluvial branca e tubo de descida claramente visíveis, telhado de telhas, jardim discreto; enquadramento horizontal amplo com espaço calmo à esquerda para título, luz natural e aparência de foto cotidiana de celular.
+sobre.jpg: Vista próxima e natural de uma calha pluvial branca e tubo de descida no beiral de uma casa, junção e suportes visíveis, telhado comum e jardim desfocado ao fundo, sem pessoas.
+instalacao-de-calhas.jpg: Trecho de calha pluvial branca recentemente alinhada sob o beiral de uma casa brasileira modesta, parte do tubo de descida e ferramentas guardadas no chão, sem pessoas nem risco de queda.
+conserto-de-calhas.jpg: Detalhe de junção e suporte de calha pluvial no beiral de telhado, mostrando manutenção comum sem dano extremo, casa residencial ao fundo, sem pessoas.
+limpeza-e-manutencao-de-calhas.jpg: Vista do chão em direção a uma calha junto a telhado com folhas secas em pequena quantidade e tubo de descida, sugerindo manutenção de rotina, sem pessoa subindo ou trabalhando em altura.
