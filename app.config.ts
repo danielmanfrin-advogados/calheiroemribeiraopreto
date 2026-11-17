@@ -1,1 +1,1 @@
-export default { logoUrl: "https://calheiroribeiraopreto.vercel.app/favicon.svg" };
+export default { logoUrl: "https://files.manuscdn.com/user_upload_by_module/session_file/310519664054327604/dmegQddlRCSMHuVu.svg" };
